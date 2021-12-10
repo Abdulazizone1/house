@@ -2,11 +2,13 @@ body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    overflow: hidden;
 }
 #body{
     background: url(images/architecture-5999913.jpg) center center;
     height: auto;
     background-size: cover;
+    overflow: hidden;
 }
 #title{
     color: white;
