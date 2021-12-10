@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#body{
+    background: url(images/architecture-5999913.jpg) center center;
+    height: auto;
+    background-size: cover;
+}
+#title{
+    color: white;
+    text-align: center;
+    font-size: 10vh;
+    margin: 150px auto;    
+}
+#navbar{
+    background-color: rgba(0, 0, 0, 0.6);
+}
+.icons{
+    height: 150px;
+}
+#header{
+    text-align: center;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 10px;
+} 
+.imgsizing{
+    height: 200px;
+}
+#carousel{
+    margin-top: 30px;
+    color: white;
+}
+.h1for{
+    text-align: center;
+    color: white;
+}
+#secondsection{
+    background: url(images/bg1.jpg) center center;
+    background-size: cover;
+}
+
+#jumbo{
+    margin-top: 100px;
+    height: auto;
+    background-color: rgba(0, 0, 0, 0.6);
+    text-align: center;
+    color: white;
+}
+
+.img1{
+    margin-top: 10px;
+    height: 150px;
+}
+.new{
+    height: 50px;
+}
+
+@media (max-width: 800px){
+  
+}
+
+
+
+/*00ffe9*/
